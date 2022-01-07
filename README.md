@@ -26,3 +26,7 @@ for nginx https://www.digitalocean.com/community/tutorials/how-to-configure-jenk
   
   for Error : https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1
   ![image](https://user-images.githubusercontent.com/71556060/148529898-ff075401-836c-450d-8ed9-8f2a896fff48.png)
+
+  
+final  solution:
+  https://medium.com/@ichdamola/fix-e-sub-process-usr-bin-dpkg-returned-an-error-code-1-while-installing-jenkins-7d317f771d0e
