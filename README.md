@@ -20,7 +20,8 @@ visit :https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-o
 
 visit : https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
 
-
+for nginx https://www.digitalocean.com/community/tutorials/how-to-configure-jenkins-with-ssl-using-an-nginx-reverse-proxy-on-ubuntu-18-04
+ 
 
   
   for Error : https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1
