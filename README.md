@@ -17,6 +17,7 @@ for prerequsit visit: https://www.digitalocean.com/community/tutorials/how-to-in
 Step 1 — Installing Jenkins
 
 visit :https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+  https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
 
 visit : https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
 
