@@ -1,6 +1,7 @@
-# who-to-install-jenkins-in-ubuntu-linux-CLI
+who-to-install-jenkins-in-ubuntu-linux-CLI
 
 <h1>Introduction<h1>
+  
 Jenkins is an open-source automation server that automates the repetitive technical tasks involved in the continuous integration and delivery of software. Jenkins is Java-based and can be installed from Ubuntu packages or by downloading and running its web application archive (WAR) file — a collection of files that make up a complete web application to run on a server.
 
 In this, you will install Jenkins by adding its Debian package repository, and using that repository to install the package with apt.
